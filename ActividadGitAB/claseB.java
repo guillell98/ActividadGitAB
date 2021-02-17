@@ -14,7 +14,7 @@ public class claseB {
      {
         for(int i = 0; i <= 12; i++)
         {
-            System.out.print("12 x "+ i + " = " + 12 * i + "\n");
+            System.out.print("12 x "+ i + " = " + 12 * i + "\n");;
         }
      }
 }
