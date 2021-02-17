@@ -10,4 +10,11 @@
  */
 public class claseB {
     private String JC = "SOY YO JC TU COMPI DE AL LADO LADO";
+    public static void main (String args[])
+     {
+        for(int i = 0; i <= 12; i++)
+        {
+            System.out.print("12 x "+ i + " = " + 12 * i + "\n");
+        }
+     }
 }
