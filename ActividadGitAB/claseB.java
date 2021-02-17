@@ -9,5 +9,5 @@
  * @author JCHacking ;D
  */
 public class claseB {
-    
+    private String JC = "SOY YO JC TU COMPI DE AL LADO LADO";
 }
